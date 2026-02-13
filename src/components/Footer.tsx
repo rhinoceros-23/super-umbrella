@@ -46,7 +46,7 @@ const Footer = () => (
             <li className="text-background/90 font-medium">Saurab Arya</li>
             <li className="flex items-start gap-2">
               <MapPin className="h-4 w-4 mt-0.5 shrink-0" />
-              <span>291 Tech Park, Electronic City, Bangalore, Karnataka 560001, India</span>
+              <span>#3-984/2, Ayyappa Society Main Rd, Sri Sai Nagar, Madhapur, Hyderbad, Telangana, India</span>
             </li>
             <li className="flex items-center gap-2">
               <Mail className="h-4 w-4 shrink-0" />
